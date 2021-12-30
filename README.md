@@ -1,6 +1,6 @@
 # Notepad++ User Languages
 
-This repository is an effort to group different user languages, incluiding huawei/aruba/cisco to highlighting syntax with notepad++.
+This repository is an effort to group different user defined languages (UDLs), incluiding huawei/aruba/cisco to highlighting syntax with notepad++.
 
 ## How to import user language to Notepad++
 
