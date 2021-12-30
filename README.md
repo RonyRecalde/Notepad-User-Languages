@@ -1,1 +1,1 @@
-# Notepad-User-Languages
+# Notepad++ User Languages
