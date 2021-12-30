@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="Aruba_Oro" ext="" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00 01 02 03 04</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">&quot;ip access-list&quot;&#x000D;&#x000A;clock&#x000D;&#x000A;location&#x000D;&#x000A;netdestination&#x000D;&#x000A;time-range&#x000D;&#x000A;&quot;ntp server&quot;&#x000D;&#x000A;netservice&#x000D;&#x000A;user-role&#x000D;&#x000A;aaa&#x000D;&#x000A;session&#x000D;&#x000A;bw-contract&#x000D;&#x000A;controller-ip&#x000D;&#x000A;dialer&#x000D;&#x000A;interface&#x000D;&#x000A;gigabitethernet&#x000D;&#x000A;fastethernet&#x000D;&#x000A;master-redundancy&#x000D;&#x000A;vrrp&#x000D;&#x000A;&quot;ip default-gateway&quot;&#x000D;&#x000A;&quot;ip route&quot;&#x000D;&#x000A;uplink&#x000D;&#x000A;&quot;ip nexthop-list&quot;&#x000D;&#x000A;crypto&#x000D;&#x000A;&quot;router ospf&quot;&#x000D;&#x000A;mgmt-user&#x000D;&#x000A;&quot;database synchronize&quot;&#x000D;&#x000A;adp&#x000D;&#x000A;tunneled-node&#x000D;&#x000A;tunneled-node-address&#x000D;&#x000A;airgroup&#x000D;&#x000A;airgroupservice&#x000D;&#x000A;firewall&#x000D;&#x000A;country&#x000D;&#x000A;&quot;aaa authentication&quot;&#x000D;&#x000A;&quot;aaa server-group&quot;&#x000D;&#x000A;&quot;aaa profile&quot;&#x000D;&#x000A;control-plane-security&#x000D;&#x000A;ids&#x000D;&#x000A;upgrade-profile&#x000D;&#x000A;license&#x000D;&#x000A;ifmap&#x000D;&#x000A;&quot;ap system-profile&quot;&#x000D;&#x000A;&quot;ap regulatory-domain-profile&quot;&#x000D;&#x000A;ap&#x000D;&#x000A;rf&#x000D;&#x000A;&quot;rf arm-profile&quot;&#x000D;&#x000A;&quot;rf dot11a-radio-profile&quot;&#x000D;&#x000A;&quot;rf dot11g-radio-profile&quot;&#x000D;&#x000A;wlan&#x000D;&#x000A;&quot;wlan ssid-profile&quot;&#x000D;&#x000A;&quot;wlan virtual-ap&quot;&#x000D;&#x000A;banner&#x000D;&#x000A;hostname&#x000D;&#x000A;cfgm&#x000D;&#x000A;ap-group&#x000D;&#x000A;logging&#x000D;&#x000A;crypto-local&#x000D;&#x000A;&quot;aaa bandwidth-contract&quot;&#x000D;&#x000A;vpn-dialer</Keywords>
+            <Keywords name="Keywords2">ip&#x000D;&#x000A;vlan&#x000D;&#x000A;ipv6&#x000D;&#x000A;lacp&#x000D;&#x000A;switchport&#x000D;&#x000A;domain&#x000D;&#x000A;name-server&#x000D;&#x000A;domain-name&#x000D;&#x000A;address</Keywords>
+            <Keywords name="Keywords3">any&#x000D;&#x000A;user&#x000D;&#x000A;alias&#x000D;&#x000A;network&#x000D;&#x000A;host&#x000D;&#x000A;name&#x000D;&#x000A;description&#x000D;&#x000A;syscontact&#x000D;&#x000A;snmp-server&#x000D;&#x000A;key&#x000D;&#x000A;secret&#x000D;&#x000A;auth-server&#x000D;&#x000A;authentication-dot1x&#x000D;&#x000A;initial-role&#x000D;&#x000A;authentication-mac&#x000D;&#x000A;mac-default-role&#x000D;&#x000A;mac-server-group&#x000D;&#x000A;dot1x-default-role&#x000D;&#x000A;dot1x-server-group&#x000D;&#x000A;radius-accounting&#x000D;&#x000A;radius-interim-accounting&#x000D;&#x000A;rfc-3576-server&#x000D;&#x000A;&quot;set role&quot;&#x000D;&#x000A;&quot;set vlan&quot;&#x000D;&#x000A;delimiter&#x000D;&#x000A;timer&#x000D;&#x000A;max-requests&#x000D;&#x000A;case&#x000D;&#x000A;reauthentication&#x000D;&#x000A;max-tx-power&#x000D;&#x000A;min-tx-power&#x000D;&#x000A;essid&#x000D;&#x000A;opmode&#x000D;&#x000A;g-basic-rates&#x000D;&#x000A;g-tx-rates&#x000D;&#x000A;wmm&#x000D;&#x000A;hide-ssid&#x000D;&#x000A;deny-bcast&#x000D;&#x000A;ht-ssid-profile&#x000D;&#x000A;wpa-passphrase&#x000D;&#x000A;dot11r-profile&#x000D;&#x000A;ssid-profile&#x000D;&#x000A;allowed-band&#x000D;&#x000A;broadcast-filter&#x000D;&#x000A;deny-inter-user-traffic&#x000D;&#x000A;aaa-profile&#x000D;&#x000A;dot11a-radio-profile&#x000D;&#x000A;dot11g-radio-profile&#x000D;&#x000A;regulatory-domain-profile&#x000D;&#x000A;ids-profile&#x000D;&#x000A;virtual-ap&#x000D;&#x000A;&quot;access-list session&quot;&#x000D;&#x000A;reauthentication-interval</Keywords>
+            <Keywords name="Keywords4">gre&#x000D;&#x000A;icmp&#x000D;&#x000A;tcp&#x000D;&#x000A;udp&#x000D;&#x000A;dns&#x000D;&#x000A;dhcp&#x000D;&#x000A;ntp</Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6">permit&#x000D;&#x000A;&quot;no shutdown&quot;&#x000D;&#x000A;enable&#x000D;&#x000A;allow</Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8">deny&#x000D;&#x000A;shutdown&#x000D;&#x000A;disable&#x000D;&#x000A;drop&#x000D;&#x000A;no &#x000D;&#x000A;</Keywords>
+            <Keywords name="Delimiters"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="FF8000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="808040" bgColor="FFFFFF" fontStyle="6" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="400080" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="80FFFF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="008000" bgColor="FFFFFF" fontStyle="5" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="0000FF" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="FF0000" bgColor="FFFFFF" fontStyle="5" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
